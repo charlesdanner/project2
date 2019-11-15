@@ -1,4 +1,4 @@
-# project2 - [CropCircle](https://project2-project-boogaloo.herokuapp.com/)
+# project2 - [CropCircle](https://project2-cropcircle.herokuapp.com/coding)
 
 ## Introduction
 CropCircle is a small group collaboration for the coding bootcamp at UNCC. It is a means of learning new material, practicing old material and showing off to potential employers the skills and abilities of the group members. CropCircle is a fully functioning forum that allows clients to create a unique username and join loose discussions covering different topics.
@@ -37,5 +37,5 @@ The server will then query the database to return all posts for that category.
 https://github.com/charlesdanner/project2/raw/master/video/Screen%20Recording.wmv
 
 ### Link to site: 
-Example: [https://project2-project-boogaloo.herokuapp.com/coding](https://project2-project-boogaloo.herokuapp.com/coding).
+Example: [https://project2-project-boogaloo.herokuapp.com/coding](https://project2-cropcircle.herokuapp.com/coding).
 
